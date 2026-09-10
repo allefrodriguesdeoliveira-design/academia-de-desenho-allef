@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rodriguesdeoliveiraallef697-creator.github.io/academia-de-desenho-allef/sitemap.xml
+Sitemap: https://allefrodriguesdeoliveira-design.github.io/academia-de-desenho-allef/sitemap.xml
